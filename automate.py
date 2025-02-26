@@ -97,7 +97,7 @@ else:
     print("No malicious IPs detected on VirusTotal.")
 
 print("\n ******************** ")
-VIRUSTOTAL_API_KEY  = "65e5e740e95f745523731b8e58b5ec9e78c927a379ad455ba882bca2e861582e"
+VIRUSTOTAL_API_KEY  = "[API_KEY]"
 
 
 # Paths
